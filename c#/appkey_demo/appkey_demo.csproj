@@ -46,7 +46,7 @@
   <ItemGroup>
     <Compile Include="appkey_demo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="appkey_demo_test.cs" />
+    <Compile Include="appkey_demo.cs" />
     <Compile Include="api-gateway-demo-sign-net\Constant\Constants.cs" />
     <Compile Include="api-gateway-demo-sign-net\Constant\ContentType.cs" />
     <Compile Include="api-gateway-demo-sign-net\Constant\HttpHeader.cs" />
